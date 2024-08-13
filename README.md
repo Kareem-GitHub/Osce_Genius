@@ -26,6 +26,6 @@ OSCE Genius leverages Flutter Hooks to manage the app's state and lifecycle in a
 
 ## Demo Video
 
-#### You can watch the demo video on YouTube here:
+### You can watch the demo video on YouTube here
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qr4o2pPtQcY/0.jpg)](https://www.youtube.com/watch?v=qr4o2pPtQcY)
