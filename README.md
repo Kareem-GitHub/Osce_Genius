@@ -18,8 +18,14 @@ State management in OSCE Genius is handled using the BLoC pattern, which separat
 
 ### 4. Tutorial Coaching
 
-To ensure users can effectively navigate and use the app, OSCE Genius includes a comprehensive tutorial coaching feature. This feature guides users through the app's functionalities, providing step-by-step instructions and tips to maximize their learning experience.
+To ensure users can effectively navigate and use the app, OSCE Genius includes a simple and straightforward tutorial coaching feature. This feature guides users through the app's functionalities, providing step-by-step instructions and tips to maximize their learning experience.
 
 ### 5. Flutter Hooks
 
 OSCE Genius leverages Flutter Hooks to manage the app's state and lifecycle in a more concise and expressive way. Hooks simplify the process of using stateful widgets and improve the readability and maintainability of the code.
+
+## Demo Video
+
+#### You can watch the demo video on YouTube here:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qr4o2pPtQcY/0.jpg)](https://www.youtube.com/watch?v=qr4o2pPtQcY)
